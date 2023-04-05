@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-meme-app/static/css/main.b0e24b0f.css",
+    "main.js": "/react-meme-app/static/js/main.0fc579a9.js",
+    "static/js/787.876f76cf.chunk.js": "/react-meme-app/static/js/787.876f76cf.chunk.js",
+    "static/media/logo.svg": "/react-meme-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-meme-app/index.html",
+    "main.b0e24b0f.css.map": "/react-meme-app/static/css/main.b0e24b0f.css.map",
+    "main.0fc579a9.js.map": "/react-meme-app/static/js/main.0fc579a9.js.map",
+    "787.876f76cf.chunk.js.map": "/react-meme-app/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e24b0f.css",
+    "static/js/main.0fc579a9.js"
+  ]
+}
